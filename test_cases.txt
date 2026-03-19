@@ -6,6 +6,7 @@ Input:
 Name: Priya
 Marks: 95
 Expected Output:
+Marks: 95/100
 Grade: A
 Message: Excellent work! Keep shining
 
@@ -15,6 +16,7 @@ Input:
 Name: Rahul
 Marks: 85
 Expected Output:
+Marks: 85/100
 Grade: B
 Message: Very Good! Keep it up!
 
@@ -23,6 +25,7 @@ Input:
 Name: Anjali
 Marks: 75
 Expected Output:
+Marks: 75/100
 Grade: C
 Message: Good job! Keep improving 
 
@@ -31,6 +34,7 @@ Input:
 Name: Arun
 Marks: 65
 Expected Output:
+Marks: 65/100
 Grade: D
 Message: You passed! Try harder next time
 
@@ -39,6 +43,7 @@ Input:
 Name: Kiran
 Marks: 45
 Expected Output:
+Marks: 45/100
 Grade: F
 Message: Don't give up! Work harder
 
